@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/urNRC3w.png"><br>
+<img src="https://i.imgur.com/urNRC3w.png"> <img src="https://i.imgur.com/wvDqQMd.png"><br>
 
 <h1 align="center"> Cronômetro </h1>
 <p align="center"> <strong> Cronômetro </strong> simples criado em javascript, html e css </p>
@@ -10,7 +10,7 @@
 
 ## ✍ Descrição
 
-Um <strong> Cronômetro </strong> simples, durante a aula do SerraTec no dia 14/07/2020 pelo professor Werberson Rodrigues. 
+Um <strong> Cronômetro </strong> simples, criado durante a aula do SerraTec no dia 14/07/2020 pelo professor Werberson Rodrigues. 
 
  ## 💻 Instalação e execução
  
