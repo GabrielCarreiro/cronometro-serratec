@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/urNRC3w.png" width="42%"> <img src="https://i.imgur.com/wvDqQMd.png"><br>
+<img src="https://i.imgur.com/urNRC3w.png" width="45%"> <img src="https://i.imgur.com/wvDqQMd.png"><br>
 
 <h1 align="center"> Cronômetro </h1>
 <p align="center"> <strong> Cronômetro </strong> simples criado em javascript, html e css </p>
