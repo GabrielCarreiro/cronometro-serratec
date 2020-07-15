@@ -15,13 +15,13 @@ var cronometro = (() => {
     function iniciar() {
         cronometro = setInterval(time, 1000);
         document.body.removeEventListener('click', iniciar);
-        // document.getElementById('btn-iniciar').disabled = true;
+        document.getElementById('btn-iniciar').disabled = true;
     }
 
     // Função para pausar o relogio do cronometro
     function parar() {
-        clearInterval(cronometro) 
-        // document.getElementById('btn-iniciar').disabled = false;
+        clearInterval(cronometro)
+        document.getElementById('btn-iniciar').disabled = false;
     }
 
     // Função para zerar o cronometro
@@ -30,7 +30,7 @@ var cronometro = (() => {
         segundo = 0;
         minuto = 0;
         hora = 0;
-        // document.getElementById('btn-iniciar').disabled = false;
+        document.getElementById('btn-iniciar').disabled = false;
         atualizar();
     }
 
@@ -63,8 +63,7 @@ var cronometro = (() => {
     }
 
     // var btn = document.getElementById('btn-iniciar');
-   
-    document.body.addEventListener('click', iniciar);
+    // document.body.addEventListener('click', iniciar);
 
     return {
         iniciar,
